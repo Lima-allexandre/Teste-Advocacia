@@ -1,0 +1,160 @@
+.section-somos {
+    display: flex;
+    width: 100%;
+    height: 50vh;
+}
+
+h2 {
+    color: #CFA481;
+    font-size: 15px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    position: relative;
+    top: 160px;
+    left: 100px;
+}
+
+.pgh-1 {
+    color: #E8DFD6;
+    font-size: 50px;
+    font-weight: 400;
+    line-height: 60px;
+    position: relative;
+    top: 155px;
+    left: 130px;
+}
+
+
+.img-quem {
+    width: 15vw;
+    height: 0.5vh;
+}
+
+.nav-quem {
+    display: flex;
+    margin-bottom: 12%;
+}
+
+.pgh-2 {
+    color: #E8DFD6;
+    font-weight: 400;
+    font-size: smaller;
+    line-height: 17px;
+    position: relative;
+    top: -5px;
+    margin-left: 20px;
+}
+
+h3 {
+    color: #CFA481;
+    font-weight: 200;
+    font-size: 40px;
+    position: relative;
+    top: -20px;
+    left: 80px;
+}
+
+.pgh-3 {
+    color: #CFA481;
+    font-weight: 600;
+    font-size: 10px;
+    position: relative;
+    top: 32px;
+    left: 55px;
+}
+
+h4 {
+    color: #CFA481;
+    font-weight: 200;
+    font-size: 40px;
+    position: relative;
+    top: -20px;
+    left: 110px;
+}
+
+.pgh-4 {
+    color: #CFA481;
+    font-weight: 600;
+    font-size: 10px;
+    position: relative;
+    top: 32px;
+    left: 65px;
+}
+
+.btn-quem {
+    width: 110px;
+    height: 30px;
+    position: relative;
+    top: 120px;
+    right: 390px;
+    border-radius: 10px solid;
+}
+
+
+.navigation-somos {
+    width: 100%;
+    height: 40vh;
+    display: flex;
+    justify-content: right;
+}
+
+.brown {
+    width: 25%;
+    height: 100%;
+    background-color: #CFA481;
+    padding: 80px;
+}
+
+h5 {
+    color: #4E5E54;
+    font-weight: 800;
+    font-size: 20px;
+}
+
+.brown-p {
+    color: #4E5E54;
+    font-weight: 400;
+    font-size: 12px;
+    text-align:left;
+}
+
+.gray {
+    width: 25%;
+    height: 100%;
+    background-color: #E8DFD6;
+    padding: 80px;
+}
+
+h6 {
+    color: #4E5E54;
+    font-weight: 800;
+    font-size: 20px;
+}
+
+.gray-p {
+    color: #4E5E54;
+    font-weight: 400;
+    font-size: 12px;
+    text-align:left;
+}
+
+.white {
+    width: 40%;
+    height: 100%;
+    background-color: #FFF;
+    padding: 80px;
+}
+
+h7 {
+    color: #4E5E54;
+    font-weight: 800;
+    font-size: 20px;
+}
+
+.white-p {
+    width: 40%;
+    color: #4E5E54;
+    font-weight: 400;
+    font-size: 12px;
+    text-align:left;
+}

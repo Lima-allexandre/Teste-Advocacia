@@ -1,0 +1,102 @@
+.serviços {
+    display: flex;
+    position: absolute;
+    z-index: 0;
+    justify-content: center;
+}
+
+
+.img-head {
+    display: flex;
+    width: 80%;
+    height: 40%;
+    position: absolute;
+    z-index: 1;
+}
+
+.box-box {
+    display: flex;
+    position: absolute;
+    z-index: 2;
+    gap: 20px;
+    right: 150px;
+    top: 400px;
+}
+
+.box-1 {
+    display: flex;
+    flex-direction: column;
+    background-color: #fff;
+    width: 400px;
+    height: 400px;
+    padding: 80px;
+}
+
+h8 {
+    color: #4E5E54;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 25px;
+}
+
+.pbox-1 {
+    color: #4E5E54;
+    font-size: 13px;
+    font-weight: 500;
+    margin-top: 10px;
+}
+
+
+.box-2 {
+    display: flex;
+    flex-direction: column;
+    background-color: #fff;
+    width: 400px;
+    height: 400px;
+    padding: 80px;
+}
+
+h9 {
+    color: #4E5E54;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 25px;
+}
+
+.pbox-2 {
+    color: #4E5E54;
+    font-size: 13px;
+    font-weight:500;
+    margin-top: 10px;
+}
+
+
+.btn-consultoria {
+    display: flex;
+    position: absolute;
+    z-index: 3;
+    top: 780px;
+    right: 340px;
+}
+
+.btn-consul {
+    background-color: #4E5E54;
+    width: 500px;
+    height: 50px;
+    border-radius: 2px;
+    color: #E8DFD6;
+    font-size: 20px;
+    font-weight: 600;
+    box-shadow: none;
+}
+
+
+.img-blog {
+    display: flex;
+    position: absolute;
+    z-index: 4;
+    width: 800px;
+    height: 300px;
+    top: 1000px;
+    right: 200px;
+}
