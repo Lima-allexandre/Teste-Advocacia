@@ -1,7 +1,6 @@
 .box-blog {
     display: flex;
     position: relative;
-    z-index: -2;
     flex-direction: column;
     background-color: beige;
     width: 100%;
